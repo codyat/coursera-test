@@ -48,7 +48,7 @@ body {
 }
 
 #container1 {
-	/*position: absolute;*/
+	position: absolute;
 	margin:50px;
 }
 
