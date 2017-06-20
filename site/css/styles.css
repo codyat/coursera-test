@@ -22,10 +22,9 @@ body {
 	text-align: center;
 	background-color: #222;
 	font-size: 400%;
-	width:95%;
-	/*margin: 50px;*/
-	/*margin-bottom: 5px;*/
-	position: fixed;
+	width:100%;
+	margin: 50px 50px 5px 50px;
+	/*position: fixed;*/
 	/*top:50;*/
 	/*left:50;*/
 }
@@ -49,7 +48,7 @@ body {
 }
 
 #container1 {
-	position: absolute;
+	/*position: absolute;*/
 	margin:50px;
 }
 
