@@ -130,7 +130,7 @@ img.projects_image {
 }
 
 .project_container, .project_container:visited, .project_container:link {
-	background-color: #AAA;
+	background-color: #999;
 	padding: 20px;
 	width: 80%;
 	min-width: 550px;
@@ -142,10 +142,10 @@ img.projects_image {
 	overflow:auto;
 }
 
-.project_container:hover, .project_container:active {
+/*.project_container:hover, .project_container:active {
 	cursor: pointer;
 	background-color: #BBB;
-}
+}*/
 
 table {
 	table-layout:fixed; 
@@ -188,7 +188,7 @@ h3 {
 }
 
 .description {
-	display: none;
+	/*display: none;*/
 	width:90%;
 	margin:0 auto;
 	left:10%;
